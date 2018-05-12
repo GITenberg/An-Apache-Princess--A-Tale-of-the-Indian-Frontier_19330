@@ -1,0 +1,49 @@
+_repo: An-Apache-Princess--A-Tale-of-the-Indian-Frontier_19330
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Deming, Edwin Willard
+    alias: Eight Bears
+    birthdate: 1860
+    deathdate: 1942
+    gutenberg_agent_id: '8411'
+    url: http://www.gutenberg.org/2009/agents/8411
+  - agent_name: Remington, Frederic
+    alias: Remington, Frederic Sackrider
+    birthdate: 1861
+    deathdate: 1909
+    gutenberg_agent_id: '2565'
+    url: http://www.gutenberg.org/2009/agents/2565
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Remington
+covers:
+- cover_type: archival
+  image_path: 19330-h/images/cover.jpg
+creator:
+  author:
+    agent_name: King, Charles
+    birthdate: 1844
+    deathdate: 1933
+    gutenberg_agent_id: '6787'
+    url: http://www.gutenberg.org/2009/agents/6787
+description: U.S. soldier Charles King first saw the battlefield during the American
+  Indian Wars and, by 1898, had worked his way up to the rank of Brigadier General.
+  After retirement, the battle-scarred veteran turned his attention to literature,
+  penning dozens of action-packed novels, stories, and screenplays. An Apache Princess
+  recounts the tale of a grizzled lieutenant whose daring exploits on the battlefield
+  are bested only by his romantic entanglements with a handful of markedly different
+  women.
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2006-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Apache Indians -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: 'An Apache Princess: A Tale of the Indian Frontier'
+url: http://www.gutenberg.org/ebooks/19330
